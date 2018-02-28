@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Announcing ASP.NET Core 2.0</name>
+   <tag></tag>
+   <elementGuidId>fb385be7-0129-48ec-b79e-f4393549d372</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://blogs.msdn.microsoft.com/webdev/2017/08/14/announcing-asp-net-core-2-0/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ping</name>
+      <type>Main</type>
+      <value>/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://blogs.msdn.microsoft.com/webdev/2017/08/14/announcing-asp-net-core-2-0/&amp;ved=0ahUKEwis6ZK-ncjZAhXQzaQKHXJ_CZ0QFggxMAA</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Announcing ASP.NET Core 2.0 | .NET Web Development and Tools ...</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rso&quot;)/div[@class=&quot;_NId&quot;]/div[@class=&quot;srg&quot;]/div[@class=&quot;g&quot;]/div[1]/div[@class=&quot;rc&quot;]/h3[@class=&quot;r&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
