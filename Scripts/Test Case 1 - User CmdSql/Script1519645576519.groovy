@@ -32,7 +32,7 @@ WebUI.setText(findTestObject('Test Case 1 - User CmdSql/Page_CURA Healthcare Ser
 
 WebUI.click(findTestObject('Test Case 1 - User CmdSql/Page_CURA Healthcare Service/button_Login'))
 
-WebUI.setText(findTestObject('Test Case 1 - User CmdSql/Page_CURA Healthcare Service/input_visit_date'), '05/03/2018')
+WebUI.setText(findTestObject('Test Case 1 - User CmdSql/Page_CURA Healthcare Service/input_visit_date'), '06/03/2018')
 
 WebUI.setText(findTestObject('Test Case 1 - User CmdSql/Page_CURA Healthcare Service/textarea_comment'), 'test case 1 - user cmdsql')
 
